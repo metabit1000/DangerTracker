@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PTI</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="principal">principal</string>
+    <string name="entra">entra</string>
+    <string name="sos">SOS</string>
+    <string name="contactes">Contactes</string>
+    <string name="log_out">Log Out</string>
+    <string name="name">Name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="usernam3">usernam3</string>
+    <string name="menu2">menu2</string>
+    <string name="menuprova">menuprova</string>
+    <string name="user">USER</string>
+    <string name="pass">PASS</string>
+    <string name="cambiar">cambiar</string>
+</resources>
