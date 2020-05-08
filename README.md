@@ -9,5 +9,5 @@ DangerTracker is a mobile application designed and developed by students Antoni 
 
 Some photos of the application: (The appearance of the app can be got better)
 
-![Image of App Login](https://ibb.co/ngQrXLJ)
+![Image of App Login](https://raw.githubusercontent.com/metabit1000/DangerTracker/master/DangerTracker/images/Captura1.JPG)
 
